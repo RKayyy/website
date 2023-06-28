@@ -1,0 +1,18 @@
+skills:
+ui ux:
+figma
+few posters
+
+paintings
+mobile and hand drawn
+
+tech:
+frontend react
+sql
+detailed view on projects
+
+resume
+
+experience timeline
+
+
